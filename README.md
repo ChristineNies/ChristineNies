@@ -5,7 +5,7 @@
 
 ## Hi there! 
 
-I am  __Nies__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
 - Programming Techniques 2
