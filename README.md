@@ -9,13 +9,13 @@ I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malays
 
 
 ## 📚 Courses
-- Probability & Statistical Data Analysis
+- Probability and Statistical Data Analysis
   -   [R](https://www.r-project.org/)
  
 - Programming for Bioinformatics
   -   [Python](https://www.python.org/)
 
-- Programming Techniques 1 and Programming Techniques 2
+- Programming Techniques 1 & Programming Techniques 2 & Data Structure and Algorithms
   -   [C++](https://www.bloodshed.net/)
 
 - Computational Mathematics
