@@ -19,6 +19,7 @@ I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malays
 ## 📑 Research and Projects
 - Research Material
   -   [PubMed Text Data Mining](https://github.com/ChristineNies/pubmed_text_datamining)
+  -   [Gene Expression Data Pre-processing](https://github.com/ChristineNies/gene_expression_preprocess)
 
 
 ## 💻 Languages and Tools
