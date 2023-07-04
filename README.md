@@ -14,8 +14,8 @@ I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malays
  
 - Programming for Bioinformatics
   -   [Python](https://www.python.org/)
-     
-- Programming Techniques 2
+
+- Programming Techniques 1 and Programming Techniques 2
   -   [C++](https://www.bloodshed.net/)
 
 - Computational Mathematics
