@@ -3,7 +3,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChristineNies&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-## Hi there! 
+## Hi there! 👋 
 
 I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malaysia](https://www.utm.my).
 
