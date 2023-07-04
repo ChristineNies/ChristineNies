@@ -32,6 +32,6 @@ I am  __Nies__, and I work as a lecturer at [Universiti Teknologi Malaysia](http
 </p>
   
   ![Follower Badge](https://img.shields.io/github/followers/ChristineNies)
-  ![](https://hit.yhype.me/github/profile?user_id=81284918)
+  ![](https://hit.yhype.me/github/profile?user_id=ChristineNies)
  
 </details>
