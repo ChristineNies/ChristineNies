@@ -14,6 +14,7 @@ I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malays
  
 - Programming for Bioinformatics
   -   [Python](https://www.python.org/)
+  -   [Visual Studio Code](https://code.visualstudio.com/)
 
 - Programming Techniques 1 & Programming Techniques 2 & Data Structure and Algorithms
   -   [C++](https://www.bloodshed.net/)
@@ -23,6 +24,7 @@ I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malays
  
 - Object Oriented Programming 
   -   [Java](https://www.java.com/en/)
+  -   [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 📑 Research and Projects
 - Research Material
