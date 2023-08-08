@@ -37,7 +37,6 @@ I am  __Nies__, an academic staff and researcher at [Universiti Teknologi Malays
 ### 🔗 Connect with Me
 <p align="left">
     <a href="https://github.com/NiesHW" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://nieshw.github.io/NiesHW" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/hui-wen-nies" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hui-wen-nies/"></a>
     <a href="mailto:huiwennies@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huiwennies@utm.my.com"></a>
     <a href="https://www.researchgate.net/profile/Hui_Wen_Nies" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
